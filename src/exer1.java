@@ -11,6 +11,6 @@ public class exer1 {
             System.out.println("numeros[" + i + "] = "+numeros[i]);
         }
 
-        sc.close();
+        sc.close();//
     }
 }

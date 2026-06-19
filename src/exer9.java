@@ -14,6 +14,6 @@ public class exer9 {
 
         System.out.println(posicao == -1
                 ? "Não encontrado"
-                : "Encontrado em v[" + posicao + "]");
+                : "Encontrado em v[" + posicao + "]");//
     }
 }

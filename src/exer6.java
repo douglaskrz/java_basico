@@ -5,6 +5,6 @@ public class exer6 {
 
         for (int i = v.length - 1; i >= 0; i--) {
             System.out.print(v[i] + " ");
-        }
+        }//
     }
 }

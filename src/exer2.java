@@ -9,7 +9,7 @@ public class exer2 {
         System.out.println("Primeiro: " + v[0]);
         System.out.println("Último:   " + v[v.length - 1]);
         System.out.println("Central:  " + v[v.length / 2]);
-
+//
         sc.close();
     }
 }

@@ -8,7 +8,7 @@ public class exer5 {
 
         for (int i = 1; i < v.length; i += 2) {
             System.out.println("v[" + i + "] = " + v[i]);
-        }
+        }//
         sc.close();
     }
 }
