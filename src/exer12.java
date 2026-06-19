@@ -24,6 +24,6 @@ public class exer12 {
 
 // Depois
         System.out.print("Depois: ");
-        for (int n : v) System.out.print(n + " ");
+        for (int n : v) System.out.print(n + " ");//
     }
 }

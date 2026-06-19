@@ -21,5 +21,5 @@ public class exer11 {
             diag += m[i][i];
         }
         System.out.println("Diagonal: " + diag);  // 1+5+9 = 15
-    }
+    }//
 }

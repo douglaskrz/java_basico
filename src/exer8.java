@@ -10,7 +10,7 @@ public class exer8 {
             if (v[i] < v[iMenor]) iMenor = i;
         }
 
-        System.out.println("Maior: v[" + iMaior + "] = " + v[iMaior]);//
+        System.out.println("Maior: v[" + iMaior + "] = " + v[iMaior]);////
         System.out.println("Menor: v[" + iMenor + "] = " + v[iMenor]);
     }
 }

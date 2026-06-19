@@ -9,7 +9,7 @@ public class exer4 {
         for (String cidade : cidades) {
             System.out.println(cidade.toUpperCase());
         }
-//
+/// /
         sc.close();
     }
 }

@@ -11,6 +11,6 @@ public class exer10 {
         copia[0] = 99;
 
         System.out.println("original[0] = " + original[0]);
-        System.out.println("copia[0]    = " + copia[0]);//
+        System.out.println("copia[0]    = " + copia[0]);////
     }
 }

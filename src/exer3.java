@@ -10,7 +10,7 @@ public class exer3 {
         }
 
         for (int n : quad) {
-            System.out.print(n + " ");//
+            System.out.print(n + " ");////
 
             sc.close();
         }

@@ -7,7 +7,7 @@ public class exer7 {
         for (double n : notas) soma += n;
         double media = soma / notas.length;
 
-        System.out.println("Soma:  " + soma);//
+        System.out.println("Soma:  " + soma);////
         System.out.println("Média: " + media);
 
         int acimaDaMedia = 0;
